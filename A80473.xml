@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter sent from a gentleman in his Majesties army to an especiall friend in London: containing a true relation of his Majesties army since their removall from Oxford, to the 16. of this present Novemb. 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80473</idno>
+            <idno type="STC">Wing C6139</idno>
+            <idno type="STC">ESTC R231646</idno>
+            <idno type="EEBO-CITATION">99899869</idno>
+            <idno type="PROQUEST">99899869</idno>
+            <idno type="VID">170796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2463:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter sent from a gentleman in his Majesties army to an especiall friend in London: containing a true relation of his Majesties army since their removall from Oxford, to the 16. of this present Novemb. 1642.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Dom. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170796:1" rendition="simple:additions"/>
+            <pb facs="tcp:170796:1" rendition="simple:additions"/>
+            <p>A Copie of a Letter Sent from a Gentleman in his MAjESTIES Army, to an eſpeciall friend in London: Containing a true Relation of his MA<g ref="char:EOLhyphen"/>jESTIES Army ſince their re<g ref="char:EOLhyphen"/>movall from Oxford, to the 16. of this preſent <hi>Novemb.</hi> 1642.</p>
+            <p>
+               <hi>Publiſhed for the benefit of all thoſe who deſire to be truely informed.</hi>
+            </p>
+            <p>Printed <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:170796:2"/>
+            <pb facs="tcp:170796:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Shall tell you nothing of the Kings paſſage from Oxford to Abbington, Henly, Red<g ref="char:EOLhyphen"/>ding and Maydenhead who expiated by furniſhing the Army with neceſſaries, beſides Armes, which the fled Garriſons left behinde them when his Majeſtie came to Egham and Stanes, he ſummon'd Windſor-Caſtle (kept againſt him by 1200 men under the command of captain Venne Citizene) but was denied en<g ref="char:EOLhyphen"/>trance; His Majeſtie thought it not worth the ſtay, or the loſſe of any man. From thence marcht to Colebrook where the Earles of Nor<g ref="char:EOLhyphen"/>thumberland and Pembrook (for the houſe of Peers) the Lord Wenman, M<hi rend="sup">r</hi> Pierpoynt, Sir John Epſley (for the houſe of Commons) brought a Petition from the Parliament after long diſpute preſented by them to his Majeſtie; the ſubſtance was to beſeech his Majeſtie to concurre with His loving ſubjects to prevent the further effuſion of bloud, and to that end to appoint a place for Commiſsioners on both ſides to meet &amp; treat of Peace. To this the King anſwered, he knew no beter place then Windſor-caſtle. After this Committee had been exceedingly well received both by the King and the reſt of the Court, they were diſ<g ref="char:EOLhyphen"/>miſſed and ſet forwards towards London. On Saturday about eight of the clock in the morn<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:170796:3"/> the King gave ſudden charges for the Army to march toward Brandford, and on Hountſlow heath ſet the Army in battalia, while the Lord Generall Ruthen led ſome of the Regiments of foot towards the town, where the Regiments of my Lord Brooks, and M<hi rend="sup">r</hi> Hollys and ſome other ſelect companies, in all 2000 kept the works: Theſe gave fire aſſoon as the Kings forces were upon them, and were boldly an<g ref="char:EOLhyphen"/>ſwered by the Regiment of M<hi rend="sup">r</hi> Bellowes, ſome of whoſe men were ſlain out of the windows; but twenty of his men got into the houſe, ſlew ten in the chambers, and at their deſcent took 80 priſonners in a yard, ready to iſſue out. When they had bound theſe &amp; put a guard upon them, they advanced ſo ſtoutly that they poſſeſſed themſelves of the firſt work, which was a batte<g ref="char:EOLhyphen"/>ry of two Canons, and a Breſt-work in the mid<g ref="char:EOLhyphen"/>dle of New-Braintford.</p>
+            <p>By this time the Regiment of Sir William Pennyman came up to the aſſiſtance of M. Bel<g ref="char:EOLhyphen"/>lowes, and here the diſpute grew very hot from another work like the former betwixt the two Brainfords (where the watermen uſed to ply,) at laſt it was likewiſe wonne: the laſt work was about 20 ſcore on this ſide the old Brainford. Colonell Hapden was not farre diſtant from it with a reſerve, but came not into their relief, &amp; here many fell; at leaſt 50 drowned; and the reſt ran away, leaving that work as the two former. By this time it grew ſo exceeding dark that it was not wiſdome, though I think ſafe, to have
+<pb facs="tcp:170796:3"/> followed the execution any further. The King lay at Hounſlow, the body of the army and all the baggage at Brainford. Upon ſtrict and juſt examination the benefit of this action was this, 6 pieces of Canon, 7 Colours, 443 priſoners, among whom are Doctour Clayton miniſter of Putney, and Preacher to a Regiment. Lilburn, once a Printer ſtigmatized with M. Prin, and now Captain, and one Aſhfield Captain, Lieu<g ref="char:EOLhyphen"/>tenant to the Lord Brook, beſides many other inferiour officers.</p>
+            <p>Their dead, I mean by the ſword, are not a<g ref="char:EOLhyphen"/>bove 200. Among them is Quarles, Lieutenant Colonell to M. Hollis (whoſe Regiment is by this ſervice utterly defeated.) Of the Kings ſide there were ſlain near 30, none of note, but M. Creſwell, a Captain of foot, and a Lieutenant: M. La-Roch a great Engineer is wounded in the belly, but without danger. The next day, being Sunday, the King commanded ſervice and ſer<g ref="char:EOLhyphen"/>mon before the break of day, and about 8 of the clock, went to Brainford, where he had ſcarce been half an houre, but a moſt violent (becauſe unexpected) Alarm was given, which was immediately diſcovered by the garriſon in Kingſton to be 1200 men, Marriners that came in 12 great Lighters with their Cannon, and de<g ref="char:EOLhyphen"/>ſigned to land at Sion-houſe to make that good, but were prevented by the excellent induſtry of a Gentleman, no officer, who rallyed 150 men and made good the Houſe and garden juſt as they drew to ſhore: from whom they were ſo
+<pb facs="tcp:170796:4"/> galled that they lanched out again and moved down the river, giving ſo much fire both with great and ſmall ſhot, which was anſwered again from the ſhore, that for the time, the greateſt battell made not more noiſe.</p>
+            <p>Diverſe ſhot came through the Houſe and fell nigh the Kings perſon at Old-Brainford. Two Drakes were prepared ready to entertain them and not in vain, for at the firſt ſhot a Barge was broken at one ſide; at the ſecond ſix men were ſlain; the third fell into the Boat, where half their Ammunition lay, being 22 barrels of Powder, which immediately took fire and made the morning in one part as dark as the preceding night: and yet by the reſt, that appeared of day, legs and arms were plentifully ſeen fly in the ayre. Amazed with this they ranne their Boats upon the ſhore of the other ſide and quitted them. The Kings ſouldiers ſoon poſſeſſed them<g ref="char:EOLhyphen"/>ſelves of the ſpoyl, which was 11 piece of Ca<g ref="char:EOLhyphen"/>non, 22 barrels of Powder, much meal, bread, cheeſe, &amp;c. For want of carriage, 12 barrels of Powder, by order were broken and thrown into the water, and eight Canon nailed and ſunk. In this action the King loſt not one man and but one hurt on the thumbe. About one of the clock the Earle of Eſſex (with the help of many City Regiments) ſtood in battalia near the Camp. But among ſo many trees, ditches and hedges, that the Kings Horſe could never come to Chardge. Wherefore two Troops ſtood within leſſe then twice Musket-ſhot of them;
+<pb facs="tcp:170796:4"/> received 30 Canon-ſhot with the loſſe but of 5 horſes and never a man. In the mean time, the Army retreated part with the King to Hampton Court, and the other to Kingſtone. By this, if the Parliament forces had a minde to fight, Hounſlow-heath was an open Campagnea; be<g ref="char:EOLhyphen"/>ſides Kinſton was better Quarter, by the benefit of the River, and the other Countreys adja<g ref="char:EOLhyphen"/>cent.</p>
+            <p>The Parliament was highly offended with what the King had done upon Saturday. Impri<g ref="char:EOLhyphen"/>ſoned a meſſenger the King ſent upon Sunday with a gratious meſſage; but releaſed him the next day. They ſay the King fights while he treats of Peace. To this it is anſwered that the Parliament forces advanced the ſame day to<g ref="char:EOLhyphen"/>wards the King, before he marched. That they ſhot firſt. That the ſame day ſpeeches were made in Guildhall, that for all the Treaty, they did not intend Peace. Laſtly, that the King did not give, nor they ask a ceſſation of arms.</p>
+            <p>The King on Monday marched himſelf to Oatlands, the Army ſtill lying at Kingſton.</p>
+            <p>The Lord Digby with his Regiment of horſe and 2 Troops of Dragoneers layeth at Egham to hinder the incurſions of Windſor-Caſtle, from whence on the ſame Saturday (which is another reaſon) they iſſued and took two of the Kings waggons of proviſion, ſlaying the carters. You may confidently believe this narration; for you receive it not from my ear, but from my eye.</p>
+            <pb facs="tcp:170796:5" rendition="simple:additions"/>
+            <pb facs="tcp:170796:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
